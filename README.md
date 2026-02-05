@@ -1,7 +1,7 @@
 # i_am_rich
 
 A new Flutter project.
-
+inspired by flutter_basic_course
 ## Getting Started
 
 This project is a starting point for a Flutter application.
