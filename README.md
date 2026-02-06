@@ -3,7 +3,7 @@
 A new Flutter project.
 inspired by flutter_basic_course
 ## Getting Started
-
+project inspired by online courses
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
