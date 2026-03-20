@@ -6,7 +6,7 @@ inspired by flutter_basic_course
 ## Getting Started
 project inspired by online courses
 udemy courses
-dart programmjing languages with flutter for android
+dart programmjing languages with flutter for android and IOS
 This project is a starting point for a Flutter application.
 Resources
 A few resources to get you started if this is your first Flutter project:
