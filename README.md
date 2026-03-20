@@ -7,7 +7,7 @@ inspired by flutter_basic_course
 project inspired by online courses
 udemy courses
 This project is a starting point for a Flutter application.
-
+Resources
 A few resources to get you started if this is your first Flutter project:
 documnts
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
