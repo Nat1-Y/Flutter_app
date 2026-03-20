@@ -1,5 +1,5 @@
 # i_am_rich
-a mobile app
+a mobile app and flutteer design
 desktop app
 A new Flutter project.
 inspired by flutter_basic_course
