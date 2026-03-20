@@ -19,5 +19,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # Flutter_app
 i am rich app
-flutter app
+flutter app android apk
 flutter
