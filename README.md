@@ -4,7 +4,7 @@ mobile first design flutter app
 desktop app and mobile 
 A new Flutter project.
 inspired by flutter_basic_course
-udemy courses
+udemy courses online course
 ## Getting Started
 project inspired by online courses
 udemy courses
