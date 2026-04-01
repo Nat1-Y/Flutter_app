@@ -24,3 +24,4 @@ samples, guidance on mobile development, and a full API reference.
 i am rich app
 flutter app android apk
 flutter app tutorial
+a wide controversial app at that time
