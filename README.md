@@ -23,4 +23,4 @@ samples, guidance on mobile development, and a full API reference.
 # Flutter_app
 i am rich app
 flutter app android apk
-flutter
+flutter app tutorial
