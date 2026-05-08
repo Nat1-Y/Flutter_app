@@ -1,6 +1,6 @@
 # i_am_rich
 a mobile app and flutteer design
-mobile first design flutter app
+mobile first design flutter app design module get method
 desktop app and mobile 
 A new Flutter project.
 inspired by flutter_basic_course
