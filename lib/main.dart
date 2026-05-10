@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 // main function
 void main() {
-  runApp(
+  runApp(//alignment
       MaterialApp(
         home: Scaffold(
           backgroundColor: Colors.blueGrey,//background change
