@@ -9,7 +9,7 @@ void main() {
           appBar: AppBar(
             title: Center
               ( child: const Text('I Am Rich'),
-
+//text for change
             ),
             backgroundColor: Colors.blueGrey[900],
           ),
