@@ -11,7 +11,7 @@ void main() {
               ( child: const Text('I Am Rich'),
 //text for change
             ),
-            backgroundColor: Colors.blueGrey[900],
+            backgroundColor: Colors.blueGrey[900],// background colour
           ),
           body: Center(
             child: const Image (
