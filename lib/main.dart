@@ -13,7 +13,7 @@ void main() {
             ),
             backgroundColor: Colors.blueGrey[900],// background colour
           ),
-          body: Center(
+          body: Center(//image
             child: const Image (
                 image: NetworkImage('https://cdn.quotesgram.com/small/99/46/1398009570-diamond-sparkle_2_.jpg'),
                     ),// loading image
