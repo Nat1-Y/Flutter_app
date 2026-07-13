@@ -6,7 +6,7 @@ void main() {
       MaterialApp(
         home: Scaffold(
           backgroundColor: Colors.blueGrey,//background change
-          appBar: AppBar(
+          appBar: AppBar(//app
             title: Center
               ( child: const Text('I Am Rich'),
 //text for change
