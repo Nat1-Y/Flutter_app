@@ -1,5 +1,6 @@
 //main
 import 'package:flutter/material.dart';
+//fun
 // main function
 void main() {
   runApp(//alignment
