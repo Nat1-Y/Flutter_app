@@ -18,6 +18,7 @@ void main() {
           //center
           body: Center(//image
             child: const Image (
+              //Network
                 image: NetworkImage('https://cdn.quotesgram.com/small/99/46/1398009570-diamond-sparkle_2_.jpg'),
                     ),// loading image
             //image
