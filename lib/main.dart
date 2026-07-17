@@ -12,6 +12,7 @@ void main() {
               ( child: const Text('I Am Rich'),
 //text for change
             ),
+            //background color
             backgroundColor: Colors.blueGrey[900],// background colour
           ),
           body: Center(//image
