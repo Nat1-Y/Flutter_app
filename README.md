@@ -1,5 +1,5 @@
 # i_am_rich
-a mobile app and flutteer design
+a mobile app and flutteer design app
 mobile first design flutter app design module get method
 desktop app and mobile 
 A new Flutter project.name
