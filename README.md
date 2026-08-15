@@ -2,7 +2,7 @@
 a mobile app and flutteer design
 mobile first design flutter app design module get method
 desktop app and mobile 
-A new Flutter project.
+A new Flutter project.name
 inspired by flutter_basic_course
 udemy courses online course
 ## Getting Started
