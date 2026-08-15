@@ -6,6 +6,7 @@ A new Flutter project.name
 inspired by flutter_basic_course
 udemy courses online course
 ## Getting Started
+online
 project inspired by online courses
 udemy courses
 dart programmjing languages with flutter for android and IOS
