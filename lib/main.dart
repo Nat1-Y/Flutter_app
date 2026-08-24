@@ -10,6 +10,7 @@ void main() {
           appBar: AppBar(//app
             title: Center
               ( child: const Text('I Am Rich'),
+               //file
 //text for change
             ),
             //background color
