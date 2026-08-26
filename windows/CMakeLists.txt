@@ -1,4 +1,5 @@
 # Project-level configuration.
+#3.14
 cmake_minimum_required(VERSION 3.14)
 project(i_am_rich LANGUAGES CXX)
 # v3
