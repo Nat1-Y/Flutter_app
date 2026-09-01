@@ -1,4 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+html<manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:label="i_am_rich"
         android:name="${applicationName}"
