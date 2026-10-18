@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.14)
 project(i_am_rich LANGUAGES CXX)
 # v3
 # The name of the executable created for the application. Change this to change
-# the on-disk name of your application.
+# the on-disk name of your application.app
 set(BINARY_NAME "i_am_rich")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
